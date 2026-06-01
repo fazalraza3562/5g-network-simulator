@@ -3,7 +3,7 @@ Karlskrona, Sweden
 
 # 5G Network Simulator
 
-A simple 5G network simulator I built to understand how base stations, user devices, and handovers work together. Nothing fancy, just the core stuff that actually matters for interviews and learning.
+A simple 5G network simulator I built to understand how base stations, user devices, and handovers work together. Nothing fancy, just the core stuff that actually matters for learning.
 
 ## What it does
 
